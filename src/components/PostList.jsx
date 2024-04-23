@@ -13,7 +13,6 @@ const PostList = ({posts, title, remove}) => {
         )
     }
 
-
     return (
         <div>
             <h1 style={{textAlign:'center'}}>
